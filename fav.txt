@@ -2,3 +2,8 @@ my fav food:
 ice cream sandwich
 popocorn
 pizza
+
+My fav Movies:
+Titanic
+Avatar
+scream
